@@ -10,3 +10,6 @@
 
 # Recursos usados 
 **HTML5,CSS3, Javascript**
+
+
+# Lembrando que o foco não é a fluidez do jogo e sim colocar em prática os conhecimentos do curso.
